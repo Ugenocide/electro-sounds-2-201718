@@ -104,7 +104,7 @@ All your assignments must be uploaded to your repository on Github. If you do no
 ## Misc
 
   1. To keep your code organised and in one place, use Github (create an account for free) to host your code repositories. Github offers a GUI [desktop app](https://desktop.github.com/) that makes it very easy to create and update repositories. Please read through
-	  - [Getting your project on Github](https://guides.github.com/introduction/getting-your-project-on-github/) using the github Desktop application
+    - [Getting your project on Github](https://guides.github.com/introduction/getting-your-project-on-github/) using the github Desktop application
     - [Github's Clone to Desktop](http://joe.blog.freemansoft.com/2014/04/github-clone-to-desktop-with-windows.html) shows you how to clone a repository to your local desktop using Github's Desktop application. This is very useful to for example keep track of the class repository which will continuously be updated as we proceed.
   2. Some exercises require you to write short texts which are write in markdown ([what is it](https://daringfireball.net/projects/markdown/), [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [tutorial](https://www.markdowntutorial.com)),
   3. A very simple formatting syntax for writing text in text editors like TextEdit, Sublime Text, or Atom. On maxos add a markdown quickview (for example [qlmarkdown](https://github.com/toland/qlmarkdown/releases) but there are more out there) to see your document rendered in markdown when quick-viewing it.
