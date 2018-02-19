@@ -1,4 +1,4 @@
-# Electro Sounds: Session 1
+# Electro Sounds – Session 1: Basics
 
 In this session we will prepare a basic development setup and look into a number of programming principles that will help you to develop a better understanding of how to create generative visual representations using JavaScript. We will use the [p5js](https://p5js.org) library and we will look into  [three.js](https://threejs.org), a cross-browser JavaScript library used to create and display animated 3D computer graphics in a web browser, as well.
 
