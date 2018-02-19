@@ -113,6 +113,15 @@ function add(theArg1, theArg2) {
 add(2,3);
 ```
 
+```JavaScript
+function add(theArg1, theArg2) {
+  let result = theArg1 + theArg2;
+  return result;
+}
+let val = add(2,3);
+console.log(val);
+```
+
 ## Conditional Statements
 
 Conditional statements give you the ability to control the flow of your program, letting it make decisions on what code to execute. The if statement allows you to control if a program enters a section of code or not based on whether a given condition is true or false. One of the important functions of the if statement is that it allows the program to select an action based upon the user's input. For example, by using an if statement to check a user-entered password, your program can decide whether a user is allowed access to the program. [link](https://www.cprogramming.com/tutorial/c/lesson2.html)
