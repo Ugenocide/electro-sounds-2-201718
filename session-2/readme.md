@@ -44,7 +44,8 @@ The following topics should serve as a starting point to explore and practice al
 - Parameterize
 - Simulate
   - Particles
-	- cellular  automata
+  - Cellular automata
+	- Noise
 - Recursion
 	- Fractals
 	- L-systems
