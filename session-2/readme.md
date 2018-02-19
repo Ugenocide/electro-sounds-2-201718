@@ -45,7 +45,7 @@ The following topics should serve as a starting point to explore and practice al
 - Simulate
   - Particles
   - Cellular automata
-	- Noise
+  - Noise
 - Recursion
 	- Fractals
 	- L-systems
