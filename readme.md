@@ -48,22 +48,35 @@ There will be 5 sessions this semester. Each week we will meet for 3 hours. Opti
 ### Session 1
 **Getting Started: Week 2-4**. For this class we will primarily use JavaScript for the coding exercises. First, we will get to know the JavaScript library [p5js](https://p5js.org/) and how to use the browser as a development environment along with the [Atom](https://atom.io/) Text Editor . During this session, you will learn a number of programming principles that will help you create generative visual representations using code. Let's go to [Session 1](./session-1/readme.md).
 
-<!--
 ### Session 2
-
+This session will look at the beauty of algorithms and data through randomness, noise, data streams and recursion. Find more details under [Session 2](./session-2/readme.md).
 
 ### Session 3
-
-
-### Session 4
--->
+For this session you will work on a written proposal for your web-based Realtime Visuals application. Details and structure are outline under [session-3](./session-3/readme.md).
 
 ## Assignments
 
-This semester you will learn about generative systems, processes and visuals. The assignments given this semester will help you exercise and practice a range of coding techniques to create web based real time visuals.
+This semester you will learn about coding, generative systems, processes and visuals. The assignments given this semester will help you exercise and practice a range of coding techniques to create Web-based Realtime Visuals.
 
 All your assignments must be uploaded to your repository on Github. If you do not yet have a Github account, create one and a repository for this class.
 
+1. **Assignment A** Create a series of 3 sketches that resemble one work of each of the following artists: Frieder Nake, Sol Lewitt, Ryoji Ikeda.
+  - Sketch size is 960x540px
+  - Add reference image to the sketch folder
+  - Due: week 5
+2. **Assignment B** Use a selection of your current Processing sketches which use code to animate abstract, geometric visuals. Create a browser application and add your own sound track that supports your visuals.
+  - Sketch size: fullscreen
+  - Due: week 10
+3. **Assignment C** Write a project proposal for a Web-based Realtime Visuals application, details see [session-3](./session-3/readme.md). The proposal requires you to include references (at least 3). Choose one reference artist or a project from the Processing Exhibition that relates to one or more of the following topics: Generative Art, Sound Art, Algorave and describe in 150 words why you like the artist's work and why it is relevant to your proposed project.
+  - Due: week 11
+4. **Assignment D** Create a browser based application using your own sound track and a range of coding techniques you have learned so far. Use at least one item from each of the following sections to focus your work:
+  - **A** algorithmic, generative, interactive, geometric
+  - **B** camera reactive, audio reactive, shaders,
+  - **C** GUI, live performance, midi, animated-gifs
+  - **D** mellow, calm, suspense, frantic, fast
+Assignment D, the final project, must be hosted on Github together with assignment A,B,C. Please see the *Submission Guidelines* for more details. The final project must be accompanied by a project Description (200 words), Technical Description (150 words), 3 representative project images and your References.
+  - Work-check: week 14
+  - Due: week 16
 
 ## Resources
 
