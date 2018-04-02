@@ -10,6 +10,9 @@ An introductory class to coding, algorithms, and screen-based visuals.
 - [Semester 2](#semester-2)
 - [Sessions](#sessions)
   - [Session 1](#session-1)
+  - [Session 2](#session-2)
+  - [Session 3](#session-3)
+  - [Session 4](#session-4)
 - [Assignments](#assignments)
 - [Resources](#resources)
   - [Readings](#readings)
@@ -53,6 +56,10 @@ This session will look at the beauty of algorithms and data through randomness, 
 
 ### Session 3
 For this session you will work on a written proposal for your web-based Realtime Visuals application. Details and structure are outline under [session-3](./session-3/readme.md).
+
+### Session 4
+A html template for your final project [session-4](./session-4/readme.md).
+
 
 ## Assignments
 
